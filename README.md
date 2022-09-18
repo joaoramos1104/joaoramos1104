@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou João F. Ramos 
 Pefil em construção!
-😎 - Estudando - Analise e Desenvolvimento de Sistemas
+😎 - Graduado em - Analise e Desenvolvimento de Sistemas
 
  <div>
   <a href="https://github.com/joaoramos1104">
