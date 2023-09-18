@@ -1,6 +1,6 @@
 
 ## Olá! Eu sou João F. Ramos 
-😎 - Analise e Desenvolvimento de Sistemas
+😎 - Análise e Desenvolvimento de Sistemas
 
  <div>
   <a href="https://github.com/joaoramos1104">
